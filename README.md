@@ -2,9 +2,9 @@
 
 ## Sou um estudante apaixonado por conhecimento.
 
-[![Twitter Badge](https://img.shields.io/badge/-@thalesms2-0000ff?style=for-the-badge&labelColor=0000ff&logo=twitter&logoColor=white&link=https://twitter.com/thalesms2)](https://twitter.com/thalesms2)
-[![Linkedin Badge](https://img.shields.io/badge/-Thales%20Sato-0000ff?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalessato/)](https://www.linkedin.com/in/thalessato/) 
-[![Email Badge](https://img.shields.io/badge/-thalesms2@outlook.com-0000ff?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@thalesms2-00bfff?style=for-the-badge&labelColor=00bfff&logo=twitter&logoColor=white&link=https://twitter.com/thalesms2)](https://twitter.com/thalesms2)
+[![Linkedin Badge](https://img.shields.io/badge/-Thales%20Sato-00bfff?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalessato/)](https://www.linkedin.com/in/thalessato/) 
+[![Email Badge](https://img.shields.io/badge/-thalesms2@outlook.com-00bfff?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesms2&layout=compact)](https://github.com/thalesms2/github-readme-stats)
 
