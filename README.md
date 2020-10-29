@@ -2,7 +2,7 @@
 
 ## Sou um estudante apaixonado por conhecimento.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/thalesms2?color=2188ff&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthalesms2&screen_name=thalesms2)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thalesms2-2188ff?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthalesms2&screen_name=thalesms2)
 [![Linkedin Badge](https://img.shields.io/badge/-Thales%20Sato-2188ff?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalessato/)](https://www.linkedin.com/in/thalessato/) 
 [![Email Badge](https://img.shields.io/badge/-thalesms2@outlook.com-2188ff?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
