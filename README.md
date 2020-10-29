@@ -2,7 +2,7 @@
 
 ## Sou um estudante apaixonado por conhecimento.
 
-[![Twitter Badge](https://img.shields.io/badge/-@thalesms2-6633cc?style=for-the-badge&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/thalesms2)](https://twitter.com/thalesms2)
+[![Twitter Badge](https://img.shields.io/badge/-@thalesms2-ff69b4?style=for-the-badge&labelColor=ff69b4&logo=twitter&logoColor=white&link=https://twitter.com/thalesms2)](https://twitter.com/thalesms2)
 
 **thalesms2/thalesms2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
