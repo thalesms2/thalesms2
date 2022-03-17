@@ -6,8 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Thales%20Sato-2188ff?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalessato/)](https://www.linkedin.com/in/thalessato/) 
 [![Email Badge](https://img.shields.io/badge/-thalesms2@outlook.com-2188ff?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesms2&layout=compact&theme=dracula&count_private=true&custom_title=Linguagem mais usadas)](https://github.com/thalesms2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesms2&layout=compact&theme=dracula)](https://github.com/thalesms2/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thalesms2&hide=issues,prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thalesms2&hide=issues,prs&show_icons=true&theme=dracula&count_private=true&custom_title=Linguagem mais usadas)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thalesms2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
