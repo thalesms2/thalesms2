@@ -9,3 +9,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesms2&layout=compact)](https://github.com/thalesms2/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thalesms2&hide=issues,prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thalesms)](https://github.com/anuraghazra/github-readme-stats)
