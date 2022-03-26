@@ -11,6 +11,6 @@ Sou um estudante apaixonado por conhecimento.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thalesms2&hide=issues,prs&show_icons=true&theme=dracula&count_private=true&locale=pt-br&custom_title=Estatísticas%20do%20Github%20de%20Thales)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thalesms2&theme=dracula&locale=pt-br&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thalesms2&theme=dracula&locale=pt-br&hide_progress=true&custom_title=Estatisticas%20Dessa%20Semana%20Wakatime)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thalesms2&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
