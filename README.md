@@ -3,8 +3,8 @@
 ~~~javascript
 export const DevFrontEnd = {
   coffe: true,
-  tecnologies: [JavaScript, React, TypeScript, Node.js, Next.js, Python, CSS, SASS],
-  valorantNick: Sato#REY,
+  tecnologies: ["JavaScript", "React", "TypeScript", "Node.js", "Next.js", "Python", "CSS", "SASS"],
+  valorantNick: "Sato#REY",
   status: patience ? "studying" : "playingValorant",
   peakRankOnValorant: "Diamond 3",
 }
