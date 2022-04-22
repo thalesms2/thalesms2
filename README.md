@@ -1,6 +1,12 @@
 ### Olá, me chamo Thales 👋
 
-Sou um estudante apaixonado por conhecimento.
+~~~javascript
+export const DevFrontEnd = {
+  coffe?: true;
+  tecnologies: [js, react, typescript, node, next, python, css, sass] 
+
+}
+~~~
 
 [![Twitter Badge](https://img.shields.io/badge/-@thalesms2-282A36?style=for-the-badge&labelColor=282A36&logo=twitter&logoColor=DD6387&link=https://twitter.com/thalesms2)](https://twitter.com/thalesms2) 
 [![Linkedin Badge](https://img.shields.io/badge/-Thales%20Sato-282A36?style=for-the-badge&logo=Linkedin&logoColor=DD6387&link=https://www.linkedin.com/in/thalessato/)](https://www.linkedin.com/in/thalessato/) 
