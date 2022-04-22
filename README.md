@@ -6,7 +6,7 @@ export const DevFrontEnd = {
   tecnologies: ["JavaScript", "React", "TypeScript", "Node.js", "Next.js", "Python", "CSS", "SASS"],
   valorantNick: "Sato#REY",
   status: patience ? "studying" : "playingValorant",
-  peakRankOnValorant: "Diamond 3",
+  peakRankOnValorant: "Imortal 1",
 }
 ~~~
 
