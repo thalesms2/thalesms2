@@ -2,9 +2,11 @@
 
 ~~~javascript
 export const DevFrontEnd = {
-  coffe?: true;
-  tecnologies: [js, react, typescript, node, next, python, css, sass] 
-
+  coffe: true,
+  tecnologies: [JavaScript, React, TypeScript, Node.js, Next.js, Python, CSS, SASS],
+  valorantNick: Sato#REY,
+  status: patience ? "studying" : "playingValorant",
+  peakRankOnValorant: "Diamond 3",
 }
 ~~~
 
