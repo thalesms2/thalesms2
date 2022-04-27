@@ -1,7 +1,7 @@
 ### Olá, me chamo Thales 👋
 
 ~~~javascript
-export const DevFrontEnd = {
+const DevFrontEnd = {
   coffe: true,
   tecnologies: ["JavaScript", "React", "TypeScript", "Node.js", "Next.js", "Python", "CSS", "SASS"],
   valorantNick: "Sato#REY",
