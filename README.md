@@ -10,6 +10,8 @@ const DevFrontEnd = {
 }
 ~~~
 
+<img  width=100% src="gojo-satoru-jujutsu-kaisen.gif"/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Thales%20Sato-282A36?style=for-the-badge&logo=Linkedin&logoColor=DD6387&link=https://www.linkedin.com/in/thalessato/)](https://www.linkedin.com/in/thalessato/) 
 [![Email Badge](https://img.shields.io/badge/-thalesms2@outlook.com-282A36?style=for-the-badge&logo=Gmail&logoColor=DD6387&link=mailto:thalesms2@outlook.com)](mailto:thalesms2@outlook.com)
 
