@@ -14,6 +14,7 @@ const DevFrontEnd = {
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thales%20Sato-282A36?style=for-the-badge&logo=Linkedin&logoColor=DD6387&link=https://www.linkedin.com/in/thalessato/)](https://www.linkedin.com/in/thalessato/) 
 [![Email Badge](https://img.shields.io/badge/-thalesms2@outlook.com-282A36?style=for-the-badge&logo=Gmail&logoColor=DD6387&link=mailto:thalesms2@outlook.com)](mailto:thalesms2@outlook.com)
+![](https://komarev.com/ghpvc/?username=thalesms2&style=for-the-badge&color=DD6387)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesms2&layout=compact&theme=dracula&locale=pt-br)](https://github.com/thalesms2/github-readme-stats)
