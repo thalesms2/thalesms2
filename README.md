@@ -1,14 +1,15 @@
-### Olá, me chamo Thales 👋
+# Olá, me chamo Thales 👋
 
 <img  width=100% src="gojo-satoru-jujutsu-kaisen.gif"/>
 
 ~~~javascript
-const DevFrontEnd = {
-  coffe: true,
-  tecnologies: ["JavaScript", "React", "TypeScript", "Node.js", "Next.js", "Python", "CSS", "SASS"],
-  valorantNick: "Sato#REY",
-  status: patience ? "studying" : "playingValorant",
-  peakRankOnValorant: "Imortal 1",
+const DevFullStack = {
+    technologies: ["React", "Vue.js", "C#", "Node.js", "Next.js", "Python", "CSS", "SASS"],
+    studying: "UFSC | Engenharia de Transporte e Lógistica",
+    status: awake ?? "studying",
+    coffe: true ☕,
+    peakRankOnValorant: "Imortal 1",
+    frustrationHandling: "More than 2k hours on Escape From Tarkov, so yes for sure.",
 }
 ~~~
 
