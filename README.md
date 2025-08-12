@@ -4,12 +4,10 @@
 
 ~~~javascript
 const DevFullStack = {
-    technologies: ["React", "Vue.js", "C#", "Node.js", "Next.js", "Python", "CSS", "SASS"],
-    studying: "UFSC | Engenharia de Transporte e Lógistica",
+    technologies: ["React", "Vue.js", "PHP", "Node.js", "Next.js", "Python"],
     status: awake ?? "studying",
     coffe: true ☕,
-    peakRankOnValorant: "Imortal 1",
-    frustrationHandling: "More than 2k hours on Escape From Tarkov, so yes for sure.",
+    frustrationHandling: "More than 3k hours on Escape From Tarkov, so yes for sure.",
 }
 ~~~
 
